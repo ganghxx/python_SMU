@@ -8,4 +8,4 @@ def draw_line_string(msg1,msg2):
     print(f" {msg2} ")
     rep_char('-', nstr+2)
 
-draw_line_string(f"Hello {input("Input his/her name: ")}.", "Welcome to Seoul.")
+draw_line_string(f"Hello {input('Input his/her name: ')}.", "Welcome to Seoul.")
